@@ -1,0 +1,20 @@
+{
+  "name": "cypresspo",
+  "version": "1.0.0",
+  "description": "Practising simple steps page object module with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh",
+  "license": "ISC",
+  "devDependencies": {
+    "@percy/cli": "^1.16.0",
+    "@percy/cypress": "^3.1.2",
+    "cypress": "^12.2.0"
+  },
+  "dependencies": {
+    "axe-core": "^4.6.1",
+    "cypress-axe": "^1.2.0"
+  }
+}
