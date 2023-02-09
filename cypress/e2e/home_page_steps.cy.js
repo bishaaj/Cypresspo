@@ -8,6 +8,7 @@ it('Progress Telerik homepage', () => {
 
    cy.acceptCookies()  
    homePage.verify_page_title() 
+   homePage.confirm_title()
    cy.checkAccessibility()  
 //   cy.percySnapshot(); 
 

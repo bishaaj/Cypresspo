@@ -1,5 +1,6 @@
 import { DemoPage } from "../pages/demoPage";
 import {HomePage} from "../pages/homePage"
+import {Common} from "../util/common"
 
 const demoPage = new DemoPage()
 const homePage = new HomePage()

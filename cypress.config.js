@@ -11,7 +11,7 @@ module.exports = defineConfig({
       // on("task", percyHealthCheck);
     },
 
-    baseUrl: "https://www.telerik.com",
+    baseUrl: "https://www.telerik.com", //https://automationteststore.com/
     chromeWebSecurity: false,
     failOnStatusCode: false,
     includeShadowDom: true,
